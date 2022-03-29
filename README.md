@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Forum App in React & Redux + Django
+
+# CinematicParadiso
 
 ```
 Forum App, with a frontend built in React & Redux and a backend built in Django API.
@@ -53,6 +53,4 @@ npm install
 npm start
 # Open http://127.0.0.1:3000/
 ```
-=======
-# CinematicParadiso
->>>>>>> e071ba0a0625c6c517070edec81534d361672c81
+
